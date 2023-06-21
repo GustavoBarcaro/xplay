@@ -1,0 +1,5 @@
+.App {
+  background: transparent linear-gradient(180deg, var(--bg-shade) 0%, var(--bg-shade-004082) 100%) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #006A71 0%, #004082 100%) 0% 0% no-repeat padding-box;
+  height: 100vh;
+}
